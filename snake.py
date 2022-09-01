@@ -15,6 +15,8 @@ blue=(0,0,255)
 x=100
 y=150
 
+score = 0
+
 constantChangesX=0
 constantChangesY=0
 
@@ -23,8 +25,8 @@ clock = pygame.time.Clock()
 font_style = pygame.font.SysFont(None, 50)
  
 def message(msg, color, x, y):
-    msg = font_style.render(msg, True, color)
-    game.blit(msg, [x, y])
+  msg = font_style.render(msg, True, color)
+  game.blit(msg, [x, y])
 
 game_over=False
 while not game_over:
@@ -80,10 +82,9 @@ while not game_over:
 
   game.fill(black)
   pygame.draw.rect(game,blue,[x, y, 7, 7])
-  message("hi", blue, 10, 10)
+  message("Score: " + str(score), blue, 10, 10)
   pygame.display.update()
   clock.tick(20)
-  print(x, y)
 
 # Food
   # if x = foodx
