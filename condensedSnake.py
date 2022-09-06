@@ -84,9 +84,10 @@ class SnakeGame:
           self.game_over = True
 
   def check_body(self):
-    for x in range(0, len(self.snake_xy) - 1):
-      print(self.snake_xy[x])
-      print(self.snake_xy[len(self.snake_xy) - 2])
+    if not self.ezmode:  
+      for x in range(0, len(self.snake_xy) - 1):
+        if self.snake_xy[x] == self.snake_xy[len(self.snake_xy) - 1]:
+          self.game_over = True
 
   def spawn_food(self):
     if self.snake_xy[len(self.snake_xy) - 1][0] == self.food_x and self.snake_xy[len(self.snake_xy) - 1][1] == self.food_y:
