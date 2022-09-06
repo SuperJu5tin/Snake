@@ -1,0 +1,15 @@
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\bin\Debug\net6.0\Snake_C_Sharp.exe
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\bin\Debug\net6.0\Snake_C_Sharp.deps.json
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\bin\Debug\net6.0\Snake_C_Sharp.runtimeconfig.json
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\bin\Debug\net6.0\Snake_C_Sharp.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\bin\Debug\net6.0\Snake_C_Sharp.pdb
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.csproj.AssemblyReference.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.AssemblyInfoInputs.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.AssemblyInfo.cs
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\refint\Snake_C_Sharp.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.pdb
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\Snake_C_Sharp.genruntimeconfig.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_C_Sharp\Snake_C_Sharp\obj\Debug\net6.0\ref\Snake_C_Sharp.dll
