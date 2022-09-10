@@ -1,0 +1,15 @@
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\bin\Debug\net6.0\Snake_CS.exe
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\bin\Debug\net6.0\Snake_CS.deps.json
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\bin\Debug\net6.0\Snake_CS.runtimeconfig.json
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\bin\Debug\net6.0\Snake_CS.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\bin\Debug\net6.0\Snake_CS.pdb
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.csproj.AssemblyReference.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.AssemblyInfoInputs.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.AssemblyInfo.cs
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.csproj.CoreCompileInputs.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\refint\Snake_CS.dll
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.pdb
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\Snake_CS.genruntimeconfig.cache
+D:\Documents\Coding\GithubRespository\Snake\Snake_CS\Snake_CS\obj\Debug\net6.0\ref\Snake_CS.dll
