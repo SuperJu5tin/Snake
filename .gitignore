@@ -1,1 +1,5 @@
-.vs
+/.vs
+
+# Added by cargo
+
+/target
