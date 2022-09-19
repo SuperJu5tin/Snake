@@ -3,22 +3,20 @@
 
 2 > 0 > 2
 
-const num1 = 10;
-const num2 = -10;
-const num3 = 5;
-const num4 = 0;
+const num1 = 140;
+const num2 = -101;
+const num3 = 53;
+const num4 = 12;
 const num5 = -5;
 let counter = 0;
 
 const stuff = (num1, num2, num3, num4, num5) => {
-  console.log
-  const count = () => {
+  const count = (num1, num2) => {
     if (num1 > num2) {
       counter++;
     } else {
       counter--;
     }
-    console.log(num1, counter)
   };
 
   count(num1, num2);
@@ -26,7 +24,7 @@ const stuff = (num1, num2, num3, num4, num5) => {
   count(num1, num4);
   count(num1, num5);
 
-  if (counter == 3) {
+  if (counter == 0) {
     console.log(num1);
   };
 
@@ -38,3 +36,7 @@ stuff(num2, num1, num3, num4, num5);
 stuff(num3, num2, num1, num4, num5);
 stuff(num4, num2, num3, num1, num5);
 stuff(num5, num2, num3, num4, num1);
+
+let array = [num1, num2, num3, num4, num5]
+array.sort()
+console.log(Math.floor(array.length() / 2))
