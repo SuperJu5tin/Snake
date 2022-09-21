@@ -1,14 +1,24 @@
 // 5 get the median out of 5 doubles
 
+// array of numbers
 
-2 > 0 > 2
-
-const num1 = 140;
-const num2 = -101;
-const num3 = 53;
-const num4 = 12;
-const num5 = -5;
+const num1 = Math.random() < .5 ? Math.random() * -100 : Math.random() * 100;
+const num2 = Math.random() < .5 ? Math.random() * -100 : Math.random() * 100;
+const num3 = Math.random() < .5 ? Math.random() * -100 : Math.random() * 100;
+const num4 = Math.random() < .5 ? Math.random() * -100 : Math.random() * 100;
+const num5 = Math.random() < .5 ? Math.random() * -100 : Math.random() * 100;
 let counter = 0;
+
+// ez mode with array
+
+let array = [num1, num2, num3, num4, num5]
+array.sort()
+for (let i = 0; i < array.length; i++) {
+  console.log(`Number ${i + 1} ` + array[i]);
+}
+console.log(array[Math.floor(array.length / 2)])
+
+// hardmode with if statements
 
 const stuff = (num1, num2, num3, num4, num5) => {
   const count = (num1, num2) => {
@@ -36,7 +46,3 @@ stuff(num2, num1, num3, num4, num5);
 stuff(num3, num2, num1, num4, num5);
 stuff(num4, num2, num3, num1, num5);
 stuff(num5, num2, num3, num4, num1);
-
-let array = [num1, num2, num3, num4, num5]
-array.sort()
-console.log(Math.floor(array.length() / 2))
