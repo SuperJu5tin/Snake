@@ -1,4 +1,6 @@
-/*
-  
-*/
-document.getElementById("demo").innerHTML = 5 + 6;
+console.log("test")
+const c = document.getElementsByClassName("canvas")
+const ctx = c.getContext("2d")
+ctx.beginPath()
+ctx.rect(20, 20, 200, 200)
+ctx.stroke()
