@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+  background-color: white;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.topGame {
+  margin: 0;
+  padding: 0;
+  display: block;
+  background-color: white;
+  color: white;
+  display: flex;
+}
+
+.canvas {
+  border: medium ridge Black;
+  padding: 0;
+  margin: auto;
+  display: block;
+}
+
+.bottomGame {
+  display: flex;
+  justify-content: center;
+}
